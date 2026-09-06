@@ -1,5 +1,9 @@
 # Front-end-learning
 My front-end development practice and projects
 
-My pun of the day:
-Did you git it now?😅
+
+
+
+😅 My Pun of the Day
+
+Did you Git it now?
